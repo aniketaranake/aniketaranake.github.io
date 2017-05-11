@@ -9397,15 +9397,20 @@
               property: 'cost',
               default: '#FF7616',
               stops: [
-                [0.0, '#FFAD27'], // least dense
-                [500, '#F26401'], // light orange
-                [1200, '#C33501'], // (our base orange)
-                [13000, '#900149'], // (most density)
+                [0.0, 'blue'], 
+                [400, 'green'], 
+                [800, 'yellow'], 
+                [1500, 'orange'], 
+                [13000, 'red'], 
+//                [0.0, '#FFAD27'], // least dense
+//                [500, '#F26401'], // light orange
+//                [1200, '#C33501'], // (our base orange)
+//                [13000, '#900149'], // (most density)
               ],
             },
             'circle-opacity': 0.7,
             'circle-stroke-width': 2,
-            'circle-stroke-color': '#F8D01C',
+            'circle-stroke-color': 'black',
             'circle-stroke-opacity': 0.5,
           },
           source: 'points',
