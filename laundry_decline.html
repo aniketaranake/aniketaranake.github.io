@@ -69,12 +69,12 @@ TODO:
         <label id='year_label'></label>
         <input id='slider' type='range' min='1986' max='2016' step='10' value='1986' />
     </div>
-
+<!--
     <div class='map-overlay-inner'>
         Laundries: #FFAD27 <br>
         Laundromats: '#900149
     </div>
-
+-->
 </div>
 
 <script>
@@ -111,7 +111,7 @@ map.on('load', function() {
                 type: "categorical",
                 stops: [
                     ["Laundries", '#FFAD27'],
-                    ["Laundromats", '#900149']
+                    ["Laundromats", '#FFAD27']
                 ]
             },
             'circle-opacity': 0.75,
