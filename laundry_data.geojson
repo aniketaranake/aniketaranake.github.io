@@ -4444,18 +4444,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"E-Laundry USA",
-                               "address" : "7388 Mission St",
-                               "is_a" :"Laundries",
-                               "year" : 2016
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.466224, 37.690086]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"First Coin Laundry",
                                "address" : "365 Eddy St",
                                "is_a" :"Laundries",
@@ -4876,18 +4864,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"Top Wash Laundromat",
-                               "address" : "6253 Mission St",
-                               "is_a" :"Laundries",
-                               "year" : 2016
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.460060, 37.706089]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"Tower Laundromat",
                                "address" : "1800 Stockton St",
                                "is_a" :"Laundries",
@@ -4932,18 +4908,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.420924, 37.757217]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Westlake Laundry",
-                               "address" : "169 Southgate Ave",
-                               "is_a" :"Laundries",
-                               "year" : 2016
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.483685, 37.697310]
                             }
                 },
                 {"type":"Feature",
@@ -7704,18 +7668,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.419040, 37.799029]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Mission-Daly City Laundromat",
-                               "address" : "30 San Pedro Rd",
-                               "is_a" :"Laundromats",
-                               "year" : 2016
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.466402, 37.689310]
                             }
                 },
                 {"type":"Feature",
