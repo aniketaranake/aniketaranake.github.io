@@ -79,11 +79,18 @@ TODO:
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZHdhc2NvIiwiYSI6ImNpdTRtdW9sZjBoaDkydHBnY3FiaGI2bDEifQ.9Gf5y4pu-NhN6s_L0vdd9Q';
+
+var sf_bounds = new mapboxgl.LngLatBounds(
+  new mapboxgl.LngLat(-122.6, 37.67),
+  new mapboxgl.LngLat(-122.3, 37.85)
+);
+
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/dwasco/cj0n4fxjp003q2rnyu3r18dd1',
-    center: [-122.4194, 37.7749],
-    zoom: 11
+    //center: [-122.4194, 37.7749],
+    //zoom: 11,
+    maxBounds: sf_bounds
 });
 
 function filterBy(year) {
