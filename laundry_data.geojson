@@ -4,18 +4,6 @@
 "features" : [
                 {"type":"Feature",
                  "properties":{
-                               "title":"A L L Industrial Laundry & Lindsell Linen Supply",
-                               "address" : "Plant 1175 Campbell Ave",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.250454, 37.782478]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"A1 Launderette & Cleaning",
                                "address" : "5523 California",
                                "is_a" :"Laundries",
@@ -60,18 +48,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.415720, 37.650833]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Aratex Services Inc",
-                               "address" : "396 Bel Marin Keys ",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.536171, 38.075912]
                             }
                 },
                 {"type":"Feature",
@@ -204,18 +180,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.417316, 37.791216]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"California Towel & Linen Supply Co Inc",
-                               "address" : "989 41st Oakland",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.275878, 37.831897]
                             }
                 },
                 {"type":"Feature",
@@ -712,18 +676,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"Hotel Laundry Service",
-                               "address" : "9928 E 14th Oakland",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.169538, 37.743149]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"Household Linen Service",
                                "address" : "6100 California",
                                "is_a" :"Laundries",
@@ -816,18 +768,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.413747, 37.802592]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"L & N Uniform Supply Co",
-                               "address" : "752 Commerical SanJose",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-121.890242, 37.365028]
                             }
                 },
                 {"type":"Feature",
@@ -1060,18 +1000,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"Model Laundry",
-                               "address" : "4020 San Panlo Dam Rd",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.311085, 37.965470]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"Modern Drapery Service",
                                "address" : "2059 Ingalis",
                                "is_a" :"Laundries",
@@ -1284,18 +1212,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.411875, 37.789633]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Phil's Tidy Cleaners",
-                               "address" : "51 Saint Francis Sq DC",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.583596, 37.986553]
                             }
                 },
                 {"type":"Feature",
@@ -1524,18 +1440,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.497601, 37.753318]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Ship's Laundry of North America Inc-Oakland Division",
-                               "address" : "9928 E 14th Oakland",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.169538, 37.743149]
                             }
                 },
                 {"type":"Feature",
