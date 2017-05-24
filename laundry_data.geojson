@@ -40,18 +40,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"American RTC Laundry",
-                               "address" : "447 South Canal SSF",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.415720, 37.650833]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"Arguello Launderette & Cleaning",
                                "address" : "700 Arguello Bl",
                                "is_a" :"Laundries",
@@ -324,18 +312,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.471166, 37.784361]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Diamond French Laundry",
-                               "address" : "238 Hillside Bl SSF",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.407961, 37.662666]
                             }
                 },
                 {"type":"Feature",
@@ -880,18 +856,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"Lostau Mme L French Laundry",
-                               "address" : "238 Hillside Bl SSF",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.407961, 37.662666]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"Lucky Laundry",
                                "address" : "3287 21st",
                                "is_a" :"Laundries",
@@ -912,18 +876,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.420090, 37.794158]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Maryatt Industries",
-                               "address" : "290 South Maple Ave SSF",
-                               "is_a" :"Laundries",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.417295, 37.643226]
                             }
                 },
                 {"type":"Feature",
@@ -1800,18 +1752,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.476924, 37.784130]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"American Etc Royal Laundry",
-                               "address" : "290 South Maple Ave SSF",
-                               "is_a" :"Laundries",
-                               "year" : 1996
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.417295, 37.643226]
                             }
                 },
                 {"type":"Feature",
@@ -3280,18 +3220,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"Westlake Laundry",
-                               "address" : "169 Southgate Av DC",
-                               "is_a" :"Laundries",
-                               "year" : 1996
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.544026, 38.008076]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"White Palace French Laundry",
                                "address" : "3359 26th ",
                                "is_a" :"Laundries",
@@ -3844,18 +3772,6 @@
                 },
                 {"type":"Feature",
                  "properties":{
-                               "title":"Maritime Laundry",
-                               "address" : "1120 San Mateo Ave SSF",
-                               "is_a" :"Laundries",
-                               "year" : 2006
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.411503, 37.637759]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
                                "title":"Miracle Cleaners",
                                "address" : "1708 Ocean Ave",
                                "is_a" :"Laundries",
@@ -4104,18 +4020,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.411542, 37.799991]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Royal Laundry",
-                               "address" : "1120 San Matea Ave SSF",
-                               "is_a" :"Laundries",
-                               "year" : 2006
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.411503, 37.637759]
                             }
                 },
                 {"type":"Feature",
@@ -5796,18 +5700,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.430751, 37.762761]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"T G Laundromat",
-                               "address" : "337 Visitacion Av Brsbn",
-                               "is_a" :"Laundromats",
-                               "year" : 1986
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.403793, 37.682202]
                             }
                 },
                 {"type":"Feature",
@@ -7584,18 +7476,6 @@
                  "geometry":{
                              "type":"Point",
                              "coordinates":[-122.424340, 37.799068]
-                            }
-                },
-                {"type":"Feature",
-                 "properties":{
-                               "title":"Brisbane Super Laundromat",
-                               "address" : "160 Old County Rd",
-                               "is_a" :"Laundromats",
-                               "year" : 2016
-                              },
-                 "geometry":{
-                             "type":"Point",
-                             "coordinates":[-122.400820, 37.685283]
                             }
                 },
                 {"type":"Feature",
