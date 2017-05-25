@@ -65,7 +65,7 @@ TODO:
 
 <div class='map-overlay top'>
     <div class='map-overlay-inner'>
-        <h2>Laundry Services</h2>
+        <h2>Laundromats in SF</h2>
         <label id='year_label'></label>
         <input id='slider' type='range' min='1986' max='2016' step='10' value='1986' />
     </div>
@@ -82,7 +82,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZHdhc2NvIiwiYSI6ImNpdTRtdW9sZjBoaDkydHBnY3Fia
 
 var sf_bounds = new mapboxgl.LngLatBounds(
   new mapboxgl.LngLat(-122.6, 37.67),
-  new mapboxgl.LngLat(-122.3, 37.85)
+  new mapboxgl.LngLat(-122.3, 37.83)
 );
 
 var map = new mapboxgl.Map({
@@ -117,19 +117,14 @@ map.on('load', function() {
                 property: 'is_a',
                 type: "categorical",
                 stops: [
-                    ["Laundries", '#FFAD27'],
-                    ["Laundromats", '#FFAD27']
+                    ["Laundries", '#7AA8C7'],
+                    ["Laundromats", '#7AA8C7']
                 ]
             },
-            'circle-opacity': 0.75,
-            'circle-radius': {
-                property: 'mag',
-                stops: [
-                    [6, 20],
-                    [8, 40]
-                ]
-            },
-            'circle-opacity': 0.7
+            'circle-radius': 8,
+            'circle-opacity': 0.8,
+            'circle-stroke-width': 1,
+            'circle-stroke-color': 'white',
         }
     });
 
